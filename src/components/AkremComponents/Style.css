@@ -1,0 +1,31 @@
+.container {
+
+    width: 80%;
+    height: 50%;
+    margin-top: 50px;  margin-left: 290px;
+
+    background-color: rgb(229, 229, 229);
+    border-radius: 22px;
+    box-shadow: rgb(138, 135, 135);
+    /* max-width: 1380px; */
+
+}
+
+
+
+
+.ALLcontainer .container{
+
+  width: 105%;
+  margin-left: 290px;
+}
+
+
+.action{
+
+
+  width: 240px;
+}
+  
+  
+  
